@@ -1,1 +1,1 @@
-print('efueheuhewiiwj')
+a  = 2+2
